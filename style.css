@@ -1,0 +1,170 @@
+body {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #8B85C1;
+  }
+  
+  h1 {
+    font-size: 50px;
+  }
+  
+  ul {
+    display: inline;
+    text-align: left;
+  }
+  
+  .colors {
+    display: inline-block;
+    padding: 50px;
+    margin: auto;
+    width: 20%;
+    height: 10%;
+  }
+  
+  .name {
+    font-size: 25px;
+  }
+  
+  .roman_silver {
+    background-color: #828A95;
+    color: #34373B;
+  }
+  
+  .columbia_blue {
+    background-color: #CEEAF7;
+    color: #525D62;
+  }
+  
+  .beau_blue {
+    background-color: #CCD7E4;
+    color: #51565B;
+  }
+  
+  .languid_lavender {
+    background-color: #D5C9DF;
+    color: #6A646F;
+  }
+  
+  .pink_lavender {
+    background-color: #DCB8CB;
+    color: #6E5B65;
+  }
+  
+  .colors_section {
+    background-color: #d7e4cc;
+    padding: 10px 0;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+  }
+  
+  .colors_section h2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #6B7165;
+  }
+  
+  .fonts {
+    display: inline-block;
+    padding: 50px;
+    margin: auto;
+    width: 20%;
+    height: 10%;
+    font-size: 20px;
+  }
+  
+  .fonts_section h2 {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    position: relative;
+    top: 40px;
+    text-decoration: underline;
+  }
+  
+  .fonts_section {
+    background-color: #D9DCD6;
+    margin: 0;
+  }
+  
+  .ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #6C6E6A;
+  }
+  
+  .poppins {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .source_sans_pro {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #9A9597;
+  }
+  
+  .regular {
+    font-weight: normal;
+  }
+  
+  .italics {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .bold_italics {
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  .styles_section h2 {
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  .styles_section {
+    font-family: 'Poppins', sans-serif;
+    background-color: #C1A5D7;
+  }
+  
+  .styles {
+    display: inline-block;
+    padding: 50px;
+    margin: auto;
+    width: 20%;
+    height: 10%;
+    font-size: 20px;
+  }
+  
+  #h1 {
+    font-size: 50px;
+    font-weight: bold;
+  }
+  
+  #h2 {
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  #h4 {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  #p {
+    font-size: 20px;
+    font-weight: normal;
+  }
+  
+  .h1 {
+    background-color: #A5D7C1;
+  }
+  
+  .h2 {
+    background-color: #D7C1A5;
+  }
+  
+  .h4 {
+    background-color: #A5A5A5;
+  }
+  
